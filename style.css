@@ -1,10 +1,12 @@
-body{
+.title{
     font-family: 'Mochiy Pop P One', sans-serif;
 }
 
+/* <!-- slider start --> */
 .image-height{
     height: 500px;
 }
+/* package section  */
 .li-style{
     list-style: none;
     text-align: left;
@@ -24,16 +26,13 @@ body{
     top: 0;
     right: 7px;
     height: 26px;
-  }
-  
-      
-  
+  } 
+  /* package section  */
   #extra{
     color: #2827CC;
   }
+  /* footer section */
   .images-w{
       width: 200px;
 
   }
-
-  row-col-sm-1 row-col-xsm-1 row-cols-md-2
