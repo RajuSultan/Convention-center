@@ -1,10 +1,11 @@
+/* section navbar */
 .title{
     font-family: 'Mochiy Pop P One', sans-serif;
 }
 
 /* <!-- slider start --> */
 .image-height{
-    height: 500px;
+    height: 600px;
 }
 /* package section  */
 .li-style{
@@ -14,14 +15,14 @@
 }
 
   .package-highlighted {
-    background-color: #2827CC;
-    border: 7px solid #2827CC;
+    background-color: #1B98F5;
+    border: 7px solid #1B98F5;
     border-radius: 20px;
-    box-shadow: 0px 1px 20px #6553e3;
+    box-shadow: 0px 1px 20px #bfb3b3;
   }
 .badge-exter {
     
-    width: 43px;
+    width: 50px;
     position: absolute;
     top: 15;
     right: 7px;
@@ -29,11 +30,11 @@
   } 
   /* package section  */
   #extra{
-    color: #2827CC;
+    color: #1B98F5;
     
   }
   /* footer section */
-  .images-w{
-      width: 150px;
-
+  
+  footer{
+    background-color: #464646;
   }
