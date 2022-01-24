@@ -12,27 +12,28 @@
     text-align: left;
     
 }
-.package-highlighted {
+
+  .package-highlighted {
     background-color: #2827CC;
-    border: 1px solid #2827CC;
+    border: 7px solid #2827CC;
     border-radius: 20px;
-    box-shadow: 0px 0px 16px #8a8686;
-    top: -26px;
+    box-shadow: 0px 1px 20px #6553e3;
   }
 .badge-exter {
     
     width: 43px;
     position: absolute;
-    top: 0;
+    top: 15;
     right: 7px;
     height: 26px;
   } 
   /* package section  */
   #extra{
     color: #2827CC;
+    
   }
   /* footer section */
   .images-w{
-      width: 200px;
+      width: 150px;
 
   }
