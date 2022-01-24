@@ -31,5 +31,9 @@ body{
   #extra{
     color: #2827CC;
   }
+  .images-w{
+      width: 200px;
+
+  }
 
   row-col-sm-1 row-col-xsm-1 row-cols-md-2
